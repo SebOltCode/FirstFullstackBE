@@ -1,4 +1,4 @@
-// Import utility functions
+
 import {
     getResourceId,
     processBodyFromRequest,
